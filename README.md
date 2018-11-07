@@ -27,6 +27,8 @@ Determine a ScriptSig that will satisfy this scriptPubKey:
 
 
 ```python
+# Exercise 4.1
+
 from script import Script
 
 hex_script = '767695935687'
